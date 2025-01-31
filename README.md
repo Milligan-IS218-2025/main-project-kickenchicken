@@ -32,3 +32,14 @@ Throughout this class, you will be working on a semester-long project to develop
     * [ ] Include at least one image
         * [ ] All images must include alt text
     * [ ] Have clean, properly indented code
+
+### Week 3
+
+* [ ] Use appropriate semantic elements to organize the content of your pages
+* [ ] Create and link at least one stylesheet that is shared among multiple pages
+* [ ] Create and link at least one stylesheet that contains styles unique to one page
+* [ ] Use at least two fonts
+* [ ] Demonstrate knowledge of the CSS font properties
+* [ ] Select and use a consistent color theme across all pages
+* [ ] Select and use consistent margins and padding across all pages
+* [ ] Use pseudo-classes to change the styles of hyperlinks across all pages
