@@ -1,3 +1,9 @@
+/*
+This is a file where i can just try things to see what happens before putting them in the test file. 
+And also to keep random bits of code.
+
+*/
+
 #news-container {
     display: flex;
     flex-wrap: wrap;
