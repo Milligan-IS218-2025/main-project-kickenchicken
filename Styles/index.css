@@ -96,6 +96,42 @@ h2 {
     text-align: justify;
 }
 
+/* table styles */
+
+table {
+    border-collapse: collapse;
+  }
+  
+.not-current {
+    background-color: gray;
+  }
+
+table th {
+    color: white;
+    background-color: red;
+    font-size: 1.5em;
+    border: 2px solid black; 
+  }
+  
+table td {
+    background-color: white;
+    width: 100px;
+    height: 75px;
+    font-size: 9px;
+    border: 2px solid black;
+    text-align: left;
+    vertical-align: top;
+  }
+
+  table td .item {
+    padding-top: 5px;
+    font-size: 12px;
+  }
+  
+table td.blank {
+    background: linear-gradient(to bottom right, red, gray);
+  }
+
 /* bottom nav bar styles */
 footer {
     position: relative; /* Ensures it stays within the page flow */
