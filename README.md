@@ -80,3 +80,6 @@ Throughout this class, you will be working on a semester-long project to develop
 * Include a well formatted and styled table
     * You must include both row and column groups and a caption
 
+### Week 8
+
+* Include a well styled form
