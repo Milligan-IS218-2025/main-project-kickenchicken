@@ -72,7 +72,7 @@ Throughout this class, you will be working on a semester-long project to develop
 ### Week 5
 
 * Include at least four different **types** of advanced design concepts
-    * (e.g. images, borders, backgrounds, gradients, transitions, and animations)
+    * (e.g. images, borders, backgrounds, and gradients)
 
 ### Week 7
 
@@ -80,3 +80,15 @@ Throughout this class, you will be working on a semester-long project to develop
 * Include a well formatted and styled table
     * You must include both row and column groups and a caption
 
+### Week 8
+
+* Include a well styled form
+
+### Week 9
+
+* Include at least one of the following:
+    * Embedded audio or video
+    * Transition
+    * Animation
+
+**Note:** Be mindful of your audience. Each of these features can be distracting and annoying if used improperly. For example, either don't use autoplay or mute audio and video files, and keep your transitions short.
