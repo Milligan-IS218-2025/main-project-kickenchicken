@@ -1,0 +1,85 @@
+/* main */
+
+h2 {
+    background-color: gray;
+    text-align: left;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+/* table & vendor spotlight: */
+.column {
+    float: left;
+    width: 48.5%;
+    margin-bottom: 20px;
+  }
+
+.column:first-of-type {
+    margin-left: 1.5%;
+}
+  
+    /* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+.column h2 {
+    background-color: black;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.column img {
+    background-color: white;
+    scale: .5;
+}
+
+.column p {
+    color: white;
+    font-size: 15px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: justify;
+}
+
+/* table styles */
+
+table {
+    border-collapse: collapse;
+}
+  
+.not-current {
+    background-color: gray;
+}
+
+table th {
+    color: white;
+    background-color: red;
+    font-size: 1.5em;
+    border: 2px solid black; 
+}
+  
+table td {
+    background-color: white;
+    width: 100px;
+    height: 75px;
+    font-size: 9px;
+    border: 2px solid black;
+    text-align: left;
+    vertical-align: top;
+}
+
+table td .item {
+    padding-top: 5px;
+    font-size: 12px;
+}
+  
+table td.blank {
+    background: linear-gradient(to bottom right, red, gray);
+}
