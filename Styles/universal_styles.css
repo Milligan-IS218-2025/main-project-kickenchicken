@@ -1,6 +1,7 @@
 /* top nav bar styles */
 
 html, body{
+
     background-color: black;
     min-height: 100vh;
     margin: 0;
@@ -34,7 +35,7 @@ h1 a:visited {
 }
 
 
-.top_nav a {
+nav a {
     float: left;
     color: #ec1315;
     text-align: center;
@@ -43,7 +44,7 @@ h1 a:visited {
     font-size: 17px;
 }
   
-.top_nav a:hover {
+nav a:hover {
     background-color: #ec1315;
     color: black;
 }
